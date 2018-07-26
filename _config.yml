@@ -1,0 +1,29 @@
+port: 4000
+host: 0.0.0.0
+safe: false
+
+title: How to develop with quality (or not)
+email: henrique.breda@outlook.com
+description: > # this means to ignore newlines until "baseurl:"
+  Some information and tips about test automation and how to improve
+  quality in development.
+
+baseurl: "" # the subpath of your site, e.g. /blog
+
+url: "https://bredah.github.io"
+
+title: How to develop with quality (or not)
+email: henrique.breda@outlook.com
+description: > # this means to ignore newlines until "baseurl:"
+  Some information and tips about test automation and how to improve
+  quality in development.
+
+twitter_username: bredahe
+github_username:  bredah
+linkedin_username: hbreda
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
