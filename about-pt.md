@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Informazioni
+title: Informações
 tagline: Informazioni riguardo a questo fantastico tema
 excerpt: >
   Informazioni riguardo a questo fantastico tema. Questo va nella descrizione SEO!
-permalink: /sobre.html
+permalink: /pt/about.html
 header:
   image: /assets/patterns/upfeathers.png
 ref: about

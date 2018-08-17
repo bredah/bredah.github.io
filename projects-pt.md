@@ -4,7 +4,7 @@ title: Projetos
 tagline: Esses são os meus projetos
 excerpt: >
   Estão em ordem cronológica. Se non sei interessato a mostrare i tuoi progetti, elimina questa pagina.
-permalink: /projetos.html
+permalink: /pt/projects.html
 header:
   image: /assets/patterns/new_year_background.png
 ref: projects

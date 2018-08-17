@@ -4,7 +4,7 @@ title: Contact
 tagline: Create a contact form and you are good to go
 excerpt: >
   Create a contact form and you are good to go. This goes SEO!
-permalink: /contact.html
+permalink: /en/contact.html
 header:
   image: /assets/patterns/wov.png
 ref: contact

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Contatti
+title: Contato
 tagline: Crea un form per contattare l'autore del blog
 excerpt: >
   Crea un form per contattare l'autore del blog. Questa descrizione e' SEO!
-permalink: /contatti.html
+permalink: /pt/contact.html
 header:
   image: /assets/patterns/wov.png
 ref: contact

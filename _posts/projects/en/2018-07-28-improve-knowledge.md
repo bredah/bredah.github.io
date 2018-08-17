@@ -2,7 +2,7 @@
 layout: post
 title:  "Knowledge for the 2018 second quarter"
 category: projects
-tags: ["knowledge", "english"]
+tags: ["knowledge"]
 ref: improve-knowledge
 lang: en
 ---

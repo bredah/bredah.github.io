@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Knowledge for the 2018 second quarter"
+title:  "Conhecimentos a adquirir no segundo semestre de 2018"
 category: projects
-tags: ["knowledge", "english"]
-ref: improve-knowledge
-lang: en
+tags: ["conhecimentos"]
+ref: estudos
+lang: pt
 ---
 
-This quarter I thinking some knowledge to evolve, this list is a personal backlog:
+Neste semestre pretendo evoluir alguns conhecimentos, essa lista é o meu backlog: 
 
 - Python: Unit Test
 - Python: Coverage

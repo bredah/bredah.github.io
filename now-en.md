@@ -4,7 +4,7 @@ title: Now
 tagline: What I'm doing now
 excerpt: >
   What I'm doing now. This goes SEO. Updated on 25 Settembre 2017.
-permalink: /now.html
+permalink: /en/now.html
 header:
   image: /assets/patterns/symphony.png
 ref: now

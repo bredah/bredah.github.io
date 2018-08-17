@@ -4,7 +4,7 @@ title: Agora
 tagline: O que estou fazendo agora
 excerpt: >
   Cosa faccio in questo periodo. Questa descrizione e' SEO. Aggiornata al 25 Settembre 2017.
-permalink: /adesso.html
+permalink: /pt/now.html
 header:
   image: /assets/patterns/symphony.png
 ref: now
