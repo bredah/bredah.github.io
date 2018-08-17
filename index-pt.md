@@ -6,7 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-permalink: /pt/index.html
+permalink: /pt
 header:
   image: /assets/img/home-header.jpg
 tagline: > # this means to ignore newlines until "repository:"
@@ -19,7 +19,7 @@ excerpt: >
   Google search results) and in your feed.xml site description.
 repository:
   is_project_page: true
-  show_downloads: true
+  show_downloads: false
   repository_url: https://gitlab.com/lorepirri/jekyll-theme-simple-blog
   zip_url: https://gitlab.com/lorepirri/jekyll-theme-simple-blog/repository/master/archive.zip
   tar_url: https://gitlab.com/lorepirri/jekyll-theme-simple-blog/repository/master/archive.tar.gz
