@@ -42,9 +42,11 @@ author:
 image: /assets/img/profile-225.png
 
 # Social network
-twitter_username: bredahe
 github_username:  bredah
 linkedin_username: hbreda
+
+twitter:
+  username: h_breda
 
 # github on site
 github:
