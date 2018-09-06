@@ -15,5 +15,5 @@ category: projects
 
 Estes são os projetos publicados em ordem cronológica.
 
-<h2>Progetti Recenti</h2>
+<h2>Projetos Recentes</h2>
 <div>&nbsp;</div>
