@@ -1,20 +1,19 @@
 ---
 layout: page
 title: Now
-tagline: What I'm doing now
+tagline: What I'm doing now...
 excerpt: >
-  What I'm doing now. This goes SEO. Updated on 25 Settembre 2017.
+  What I'm doing now...
 permalink: /en/now.html
 header:
-  image: /assets/patterns/symphony.png
+  image: /assets/img/home-header.jpg
 ref: now
 lang: en
 order: 1
 ---
-This is a [now page](http://nownownow.com/about){:target="_blank"}, and it was inspired by [the /now movement](https://sivers.org/nowff){:target="_blank"}. If you have your own site, [you should make one](http://nownownow.com/about){:target="_blank"}, too.
 
-_Updated on_ **25 Settembre 2017**.
+Start the writing and development articles about JavaScript technologies.
 
-Here write what you are up to now.
+_Update on_ **06 September 2018**
 
 {% include go-to-home-page.html %}

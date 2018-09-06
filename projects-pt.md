@@ -6,7 +6,7 @@ excerpt: >
   Estão em ordem cronológica. Se non sei interessato a mostrare i tuoi progetti, elimina questa pagina.
 permalink: /pt/projects.html
 header:
-  image: /assets/patterns/new_year_background.png
+  image: /assets/img/home-header.jpg
 ref: projects
 lang: pt
 order: 1

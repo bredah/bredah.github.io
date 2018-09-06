@@ -1,21 +1,19 @@
 ---
 layout: page
 title: Agora
-tagline: O que estou fazendo agora
+tagline: O que estou fazendo agora...
 excerpt: >
-  Cosa faccio in questo periodo. Questa descrizione e' SEO. Aggiornata al 25 Settembre 2017.
+  O que estou fazendo agora...
 permalink: /pt/now.html
 header:
-  image: /assets/patterns/symphony.png
+  image: /assets/img/home-header.jpg
 ref: now
 lang: pt
 order: 1
 ---
 
-Questa e' una pagina [now page](http://nownownow.com/about){:target="_blank"}, ispirata al [the /now movement](https://sivers.org/nowff){:target="_blank"}. Se hai un tuo sito, [dovresti farne una](http://nownownow.com/about){:target="_blank"} anche tu.
+Iniciando a criação de material para JavaScript!
 
-_Aggiornata al_ **25 Settembre 2017**.
-
-Scrivi qui quello che stai facendo in questo periodo.
+_Atualiando em_ **06 de Setembro de 2018**
 
 {% include go-to-home-page.html %}

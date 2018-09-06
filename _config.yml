@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 url: "https://bredah.github.io"
 
-title: Quality Assurance for Development
+title: QA on Dev
 email: henrique.breda@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
   Some information and tips about test automation and how to improve

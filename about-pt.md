@@ -1,19 +1,21 @@
 ---
 layout: page
 title: Informações
-tagline: Informazioni riguardo a questo fantastico tema
+tagline: Algumas informações referente ao blog e algo mais.
 excerpt: >
-  Informazioni riguardo a questo fantastico tema. Questo va nella descrizione SEO!
+  Algumas informações referente ao blog e algo mais.
 permalink: /pt/about.html
 header:
-  image: /assets/patterns/upfeathers.png
+  image: /assets/img/home-header.jpg
 ref: about
 lang: pt
 order: 2
 ---
 
-Questo e' il tema per Jekyll _Simple Blog_. Puoi trovare maggiori informazioni e codice sorgente su [jekyll-theme-simple-blog](https://github.com/lorepirri/jekyll-theme-simple-blog)
+Este blog utiliza as seguintes ferramentas:
+- Plataforma: [jekyll](https://github.com/jekyll/jekyll)
+- Tema: [jekyll-theme-simple-blog](https://github.com/lorepirri/jekyll-theme-simple-blog)
 
-Puoi trovare i codici sorgente di _Jekyll_ su [jekyll](https://github.com/jekyll/jekyll)
+Caso queira mais detalhes dos meus projetos, [clique aqui](https://github.com/bredah)!
 
 {% include go-to-home-page.html %}

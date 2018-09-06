@@ -7,7 +7,7 @@ ref: estudos
 lang: pt
 ---
 
-Neste semestre pretendo evoluir alguns conhecimentos, essa lista é o meu backlog: 
+Neste semestre pretendo evoluir alguns conhecimentos e esta é a minha lista: 
 
 - Python: Unit Test
 - Python: Coverage
