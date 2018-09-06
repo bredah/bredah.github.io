@@ -13,7 +13,7 @@ order: 1
 category: projects
 ---
 
-Questi sono i tuoi progetti, in ordine cronologico. Se non sei interessato a mostrare i tuoi progetti, elimina questa pagina.
+Estes são os projetos publicados em ordem cronológica.
 
 <h2>Progetti Recenti</h2>
 <div>&nbsp;</div>
