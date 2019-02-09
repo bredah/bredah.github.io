@@ -10,11 +10,9 @@ permalink: /
 header:
   image: /assets/img/home-header.jpg
 tagline: > # this means to ignore newlines until "repository:"
-  Here I share my studies, tutorial, etc. If you need to contact me, please, 
-  use the platforms below.
+  See my tutorials and projects.
 excerpt: >
-  Here I share my studies, tutorial, etc. If you need to contact me, please, 
-  use the platforms below.
+  See my tutorials and projects.
 repository:
   # is_project_page: true
   # show_downloads: false

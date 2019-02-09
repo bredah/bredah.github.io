@@ -36,13 +36,13 @@ google_analytics: UA-134128858-1
 
 # social
 author:
-  name: "Quality Assurance for Development"
+  name: "Henrique Breda - QA Engineer"
   short_bio:
-    en: Jekyll Blog Theme, Responsive, SEO and Facebook enabled
-    it: Jekyll Blog Theme, Responsive, con SEO e integrazione Facebook
-  picture: assets/img/profile-60.png
+    en: "QA Automation Engineer, passionate about technology and games"
+    pt: "QA Automation Engineer, apaixonado por tecnologia e jogos"
+  # picture: assets/img/profile-60.png
 
-image: /assets/img/profile-225.png
+# image: /assets/img/profile-225.png
 
 # Social network
 github_username:  bredah
