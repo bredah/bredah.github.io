@@ -1,111 +1,34 @@
-port: 4000
-host: 0.0.0.0
-safe: false
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
+# Site settings
+title: QA on DEV
+email: henrique.breda@outlook.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 
 url: "https://bredah.github.io"
 
-title: QA on Dev
-email: henrique.breda@outlook.com
-description: > # this means to ignore newlines until "baseurl:"
-  Some information and tips about test automation and how to improve
-  quality in development.
-
-# Build settings
-markdown: kramdown
-
-# Make sure to exclude 'vendor' from the build
-exclude: [vendor, "Gemfile", "Gemfile.lock"]
-
-permalink: /:title.html
-
-jekyll-theme-simple-blog:
-  date_format: "%b %-d, %Y"
-
-
-theme: # leave it empty
-
-show_post_image_posts_list: false
-
-header:
-  image: /assets/patterns/symphony.png
-
-# Google Analytics
-google_analytics: UA-134128858-1
-
-# social
-author:
-  name: "Henrique Breda - QA Engineer"
-  short_bio:
-    en: "QA Automation Engineer, passionate about technology and games"
-    pt: "QA Automation Engineer, apaixonado por tecnologia e jogos"
-  # picture: assets/img/profile-60.png
-
-# image: /assets/img/profile-225.png
-
-# Social network
+twitter_username: h_breda 
 github_username:  bredah
 linkedin_username: hbreda
 
-twitter:
-  username: h_breda
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
 
-# github on site
-github:
-  owner_url: https://github.com/bredah
+# Third-party services
+# just leave someone empty to disable it
+# google_analytics: 
+disqus_shortname:
 
-# translation
-translate:
-  en:
-    latest-posts:  "Latest Posts"
-    read-more:  "read more"
-    on-word: "on"
-    contact: "Contact"
-    contact-page: "contact.md"
-    read-time: "min read"
-    comments: "comments"
-    go-to-home-page: "Go to the Home Page"
-    months:
-      january: "Jan"
-      february: "Feb"
-      march: "Mar"
-      april: "Apr"
-      may: "May"
-      june: "Jun"
-      july: "Jul"
-      august: "Aug"
-      september: "Sep"
-      october: "Oct"
-      november: "Nov"
-      december : "Dec"
-  pt:
-    latest-posts:  "Último Posts"
-    read-more:  "mais detalhes"
-    on-word: "on"
-    contact: "Contato"
-    contact-page: "contact.md"
-    read-time: "min read"
-    comments: "comentários"
-    go-to-home-page: "Ir para à página principal"
-    months:
-      january: "Jan"
-      february: "Fev"
-      march: "Mar"
-      april: "Abr"
-      may: "Mai"
-      june: "Jun"
-      july: "Jul"
-      august: "Ago"
-      september: "Set"
-      october: "Out"
-      november: "Nov"
-      december : "Dez"
-
-defaults:
-  -
-    scope:
-      type: "posts"
-    values:
-      lang: "en"
-      category: articles
+# used this for post_excerpt at index_page
+excerpt_separator: <!--description-->
