@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Knowledge improved in 2018"
-date: 2018-07-28 00:00:00 +0800
+date: 2018-11-28T00:00:00z
 categories: about-me
 ---
 
